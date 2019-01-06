@@ -1,0 +1,56 @@
+{
+  "class": "Section",
+  "title": "Design Patterns Book",
+  "children": [
+    {
+      "class": "Section",
+      "title": "Chapter 1: Introduction to Design Patterns",
+      "children": [
+        {
+          "class": "Paragraph",
+          "text": "The introductory paragraph."
+        },
+        {
+          "class": "ImageProxy",
+          "url": "img1.png"
+        },
+        {
+          "class": "Paragraph",
+          "text": "The 2nd paragraph of chapter 1"
+        }
+      ]
+    },
+    {
+      "class": "Section",
+      "title": "Chapter 2: Creational Patterns",
+      "children": [
+        {
+          "class": "Paragraph",
+          "text": "P 2.1."
+        },
+        {
+          "class": "Image",
+          "url": "img2.png"
+        },
+        {
+          "class": "Paragraph",
+          "text": "P 2.2."
+        }
+      ]
+    },
+    {
+      "class": "Section",
+      "title": "Chapter 3: Structural Patterns",
+      "children": [
+        
+      ]
+    },
+    {
+      "class": "Section",
+      "title": "Chapter 4: Behavioural Patterns",
+      "children": [
+        
+      ]
+    }
+  ]
+}
